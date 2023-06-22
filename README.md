@@ -2,4 +2,4 @@
 
 Projeto em python 🚀
 
-Alguma estruturas lógicas e algoritmos.
+Alguns exepmlos de estruturas lógicas e algoritmos.
